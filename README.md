@@ -50,7 +50,7 @@ interests:  [ systems programming, self-hosting, tooling, 3D tech ]
 ![GitHub Stats](https://github-readme-stats-seven-ivory-75.vercel.app/api?username=pook27&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&hide=prs,issues,contribs&rank_icon=percentile&cache_seconds=1800)
 
 
-![Top Langs](https://github-readme-stats-seven-ivory-75.vercel.app/api/top-langs?username=pook27&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&langs_count=5&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-seven-ivory-75.vercel.app/api/top-langs?username=pook27&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&langs_count=10&cache_seconds=1800)
 
 ---
 

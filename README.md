@@ -27,6 +27,9 @@ Currently writing C when I want control, JavaScript when I want speed, and Rust 
 **[JellyBeans](https://github.com/pook27/JellyBeans)** &nbsp;·&nbsp; `JavaScript`
 > Self-hosted, password-protected web file manager built around Jellyfin. Handles uploads, bulk operations, poster fetching, smart selection, and sidecar-file hiding — all from a browser.
 
+**[MintClip](https://github.com/pook27/MintClip)** &nbsp;·&nbsp; `Rust`
+> Native, Rust-powered clipboard manager for Linux built for the modern desktop workflow. Handles background monitoring, search, syntax highlighting, image previews, and bidirectional text support
+
 **[Virtual-Machine](https://github.com/pook27/Virtual-Machine)** &nbsp;·&nbsp; `C`
 > A custom 32-bit stack-based VM written from scratch. 8 MB address space, 10 MHz simulated clock, custom ISA, VRAM framebuffer, and a full assembler toolchain. Raylib for rendering.
 

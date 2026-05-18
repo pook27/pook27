@@ -1,15 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│   builder of things that probably shouldn't      │
-│   exist, but do.                                 │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&multiline=true&width=480&height=50&lines=systems+programmer+%2F%2F+tool+builder+%2F%2F+neovim+enjoyer)](https://git.io/typing-svg)
 
 </div>

@@ -34,7 +34,7 @@ Currently writing C when I want control, JavaScript when I want speed, and Rust 
 ### `> cat ~/.config/stack`
 
 ```yaml
-languages:  [ C, Rust, JavaScript, Python ]
+languages:  [ C, C++, Rust, JavaScript, Python, Java ]
 editor:     Neovim
 interests:  [ systems programming, self-hosting, tooling, personal projects ]
 ```

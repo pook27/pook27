@@ -9,9 +9,9 @@
 
 ### `> whoami`
 
-Networks & Cyber Engineering background. I build tools for myself, namely — file managers, virtual machines, 3D scanners. I like systems that are close to the metal and UIs that stay out of the way.
+Networks & Cyber Engineering background. I build tools for myself. I like systems that are close to the metal and UIs that stay out of the way.
 
-Currently writing C when I want control, JavaScript when I want speed, and Rust when I hate myself a little less.
+Currently writing C when I want control, JavaScript when I just want it to work quickly, and Rust when I hate myself.
 
 ---
 
@@ -27,7 +27,7 @@ Currently writing C when I want control, JavaScript when I want speed, and Rust 
 > A custom 32-bit stack-based VM written from scratch. 8 MB address space, 10 MHz simulated clock, custom ISA, VRAM framebuffer, and a full assembler toolchain. Raylib for rendering.
 
 **[Scannertron 3000](https://github.com/pook27/Scannertron3000)** &nbsp;·&nbsp; `JavaScript`
-> Turns photos into 3D models. Automatic point cloud generation, real-time preview, export to standard formats. Designed to make photogrammetry feel like a consumer app, not a research tool.
+> Turns Objects into 3D models. Automatic point cloud generation, real-time preview, export to standard formats. Designed to make photogrammetry feel like a consumer app, not a research tool.
 
 ---
 
